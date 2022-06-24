@@ -1,0 +1,60 @@
+.logo {
+  text-align: center;
+}
+
+.search {
+  width: 80%;
+  text-align: center;
+  background-color: rgba(194, 194, 194, 0.171);
+  margin: auto;
+}
+
+.search input[type="text"] {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.list {
+  width: 80%;
+  height: 100px;
+  display: flex;
+  text-align: center;
+  background-color: rgba(194, 194, 194, 0.171);
+  margin: 2px auto;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 23%;
+  height: 100%;
+  margin: 1px;
+}
+
+.content:first-of-type {
+  background-color: #7ee5da;
+}
+
+.content:nth-of-type(2) {
+  background-color: #70ccc2;
+}
+
+.content:last-of-type {
+  width: 56%;
+  background-color: #62b3aa;
+}
+
+.content input[type="text"] {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.content p {
+  margin: 0;
+}
+
+footer {
+  font-size: 12px;
+  text-align: center;
+}
