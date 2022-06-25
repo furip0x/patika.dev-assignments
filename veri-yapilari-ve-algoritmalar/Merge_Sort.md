@@ -7,4 +7,4 @@
 
    ##### CEVAP
 
-   <img src="merge-sort-img.svg" width="400">
+   <img src="merge-sort-img.svg" width="450">
